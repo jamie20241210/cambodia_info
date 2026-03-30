@@ -15,12 +15,12 @@
     </parent>
 
     <!-- ================= 项目信息 ================= -->
-    <artifactId>remote-backend</artifactId>
+    <artifactId>cambodia_info</artifactId>
     <version>20260302_v1</version>
 
-    <name>remote-backend</name>
-    <description>Remote Application based on CJ Framework Spring Boot 3</description>
-    <url>https://github.com/cjlabs-remote/remote-backend</url>
+    <name>cambodia_info</name>
+    <description>Application based on CJ Framework Spring Boot 3</description>
+    <url>https://github.com/jamie20241210/cambodia_info.git</url>
 
     <!-- ================= 项目属性 ================= -->
     <properties>
